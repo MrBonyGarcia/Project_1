@@ -7,7 +7,7 @@ public class gitHub_Demo {
 		@Test
 		public void gitHub()
 		{
-			System.out.println("This is GitHub PUSH Webhook Run....");
+			System.out.println("This is GitHub PUSH Webhook Run  ");
 		}
 
 }
